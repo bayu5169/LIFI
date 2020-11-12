@@ -1,5 +1,5 @@
 # LIFI
-
+![Image](lifi.jpg)
 ### Apa Itu LIFI? 
 LIFI merupakan teknologi komunikasi nirkabel dua arah yang berkecepatan tinggi 
 dan mirip dengan teknologi Wi-Fi. Istilah ini dicetuskan oleh Harald Haas dan merupakan

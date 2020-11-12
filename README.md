@@ -7,5 +7,6 @@ dan mirip dengan teknologi Wi-Fi. Li-Fi memanfaatkan lampu LED untuk mentransfer
 
 ### Bagaimana cara kerja LIFI?
 
-![Image](carakerja.png)
+![Image](carakerja1.png)
+
 LiFi dirancang untuk menggunakan bola lampu LED yang serupa dengan yang saat ini digunakan di banyak rumah dan kantor yang sadar energi. Namun, lampu LiFi dilengkapi dengan chip yang memodulasi cahaya untuk transmisi data optik. Data LiFi ditransmisikan oleh lampu LED dan diterima oleh fotoreseptor seperti pada Gambar

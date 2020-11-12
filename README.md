@@ -9,5 +9,7 @@ dan mirip dengan teknologi Wi-Fi. Li-Fi memanfaatkan lampu LED untuk mentransfer
 
 LiFi dirancang untuk menggunakan bola lampu LED yang serupa dengan yang saat ini digunakan di banyak rumah dan kantor yang sadar energi. Namun, lampu LiFi dilengkapi dengan chip yang memodulasi cahaya untuk transmisi data optik. Data LiFi ditransmisikan oleh lampu LED dan diterima oleh fotoreseptor seperti pada Gambar
 
-![Image](carakerja1.png)
+![Image](carakerja.png)
+
+Agar Li-Fi bisa bekerja, dibutuhkan dua sumber cahaya yang dipasang pada masing-masing ujung perangkat. Contoh sumber cahaya yang bisa dipakai adalah detektor foto (Light Sensor) dan LED. Ketika cahaya LED hidup, maka cahaya sensor pada ujung perangkat lainnya akan mendeteksi dan mengartikannya sebagai biner 1. Jumlah cahaya yang ada pada LED tersebut akan mengirimkan pesan yang akan ditangkap oleh detektor cahaya pada perangkat satunya.
 
